@@ -1,6 +1,6 @@
 Supplemental files for the paper Knowledge Management Archipelago
 
-#Files included in this repository:
+Files included in this repository:
 1 - Additional Searches
 2 - Python Script
 3 - Python Outputs - Search-Strings
