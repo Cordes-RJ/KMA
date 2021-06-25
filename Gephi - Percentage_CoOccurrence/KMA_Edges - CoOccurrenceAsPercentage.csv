@@ -1,0 +1,41 @@
+﻿Source,Target,Type,Id,Weight,Label
+2,4,Directed,0,0.27430238,KM->IM 27%
+4,6,Directed,1,0.039023108,IM->LS 3%
+2,6,Directed,2,0.021036278,KM->LS 2%
+3,4,Directed,3,0.320577368,DF->IM 32%
+2,3,Directed,4,0.009278029,KM->DF < 1%
+2,5,Directed,5,0.006786646,KM->IC < 1%
+0,4,Directed,6,0.124922264,C2->IM 12%
+0,3,Directed,7,0.108383862,C2->DF 10%
+1,4,Directed,8,0.074971703,SC->IM 7%
+0,2,Directed,9,0.056514303,C2->KM 5%
+4,5,Directed,10,0.001471022,IM->IC < 1%
+1,3,Directed,11,0.034578423,SC->DF 3%
+1,2,Directed,12,0.027298755,SC->KM 2%
+3,6,Directed,13,0.016789473,DF->LS 1%
+0,1,Directed,14,0.012204602,C2->SC 1%
+5,6,Directed,15,0.01041243,IC->LS 1%
+0,6,Directed,16,0.002098881,C2->LS < 1%
+1,6,Directed,17,0.000798988,SC->LS < 1%
+3,5,Directed,18,0.000367337,DF->IC < 1%
+0,5,Directed,19,0.000272077,C2->IC < 1%
+4,2,Directed,20,0.22403373,IM->KM 22%
+6,4,Directed,21,0.198648549,LS->IM 19%
+6,2,Directed,22,0.087461369,LS->KM 8%
+4,3,Directed,23,0.011272768,IM->DF 0.01
+3,2,Directed,24,0.21549731,DF->KM 21%
+5,2,Directed,25,0.593427154,IC->KM 59%
+4,0,Directed,26,0.004884157,IM->C2 < 1%
+3,0,Directed,27,0.120508222,DF->C2 12%
+4,1,Directed,28,0.00256669,IM->SC < 1%
+2,0,Directed,29,0.002705355,KM->C2 < 1%
+5,4,Directed,30,0.157488001,IC->IM 15%
+3,1,Directed,31,0.033665377,DF->SC 3%
+2,1,Directed,32,0.001144287,KM->SC < 1%
+6,3,Directed,33,0.003005373,LS->DF < 1%
+1,0,Directed,34,0.013937901,SC->C2 1%
+6,5,Directed,35,0.000495094,LS->IC < 1%
+6,0,Directed,36,0.000417735,LS->C2 < 1%
+6,1,Directed,37,0.000139245,LS->SC < 1%
+5,3,Directed,38,0.001382901,IC->DF < 1%
+5,0,Directed,39,0.00113886,IC->C2 < 1%

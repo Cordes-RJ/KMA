@@ -1,0 +1,21 @@
+﻿Name,SearchString,Results
+RecordsMngt_1,"""records management""","90,700"
+RecordsMngt_2,"""records management"" -""Intellectual Capital Management"" -""Information Management"" -""Knowledge Management"" -""Library Science""","56,300"
+ISR_1,"""ISR System"" ""Intelligence"" ""surveillance"" ""reconnaissance""",686
+ISR_2,"""ISR System"" ""Intelligence"" ""surveillance"" ""reconnaissance"" -""Battlefield"" -""DCGS"" -""Command and Control"" -""C2"" -""C4"" -""C3""",165
+SitAwareness_1,"""Situation Awareness System""","2,050"
+SitAwareness_2,"""Situation Awareness System"", (""Fusion"" OR ""Intellectual Capital Management"" OR ""Information Management"" OR ""Knowledge Management"" OR ""Library Science"" OR ""SCADA"")",930
+LearningMngt_1,"""Learning Management System"", (""Fusion"" OR ""Intellectual Capital Management"" OR ""Information Management"" OR ""Knowledge Management"" OR ""Library Science"" OR ""SCADA"")","18,200"
+LearningMngt_2,"""Learning Management System"", (""Knowledge Management"" OR ""Information Management"")","16,600"
+LearningMngt_3,"""Learning Management System""","136,000"
+DecisionSS_1,"""Decision support system""","740,000"
+DecisionSS_2,"""Decision support system"" (""Command and Control"" OR ""Fusion"" OR ""Intellectual Capital Management"" OR ""Information Management"" OR ""Knowledge Management"" OR ""Library Science"" OR ""SCADA"")","50,300"
+IntFusion_1,"""intelligence fusion system"" (""Data Fusion"" OR ""Information Fusion"" OR ""Sensor Fusion"" OR ""Intellectual Capital Management"" OR ""Information Management"" OR ""Knowledge Management"" OR ""Library Science"" OR ""SCADA"")",55
+IntFusion_2,"""intelligence fusion system""",77
+BizInt_1,"""Business Intelligence""","297,000"
+BizInt_2,"""Business Intelligence"" (""Data Fusion"" OR ""Information Fusion"" OR ""Sensor Fusion"" OR ""Intellectual Capital Management"" OR ""Information Management"" OR ""Knowledge Management"" OR ""Library Science"" OR ""SCADA"")","19,800"
+InfoRescMngt_1,"""Information Resource Management""","24,600"
+InfoRescMngt_2,"""Information Resource Management"" (""Data Fusion"" OR ""Information Fusion"" OR ""Sensor Fusion"" OR ""Intellectual Capital Management"" OR ""Information Management"" OR ""Knowledge Management"" OR ""Library Science"" OR ""","14,800"
+DocMngt_1,"""Document management""","101,000"
+DocMngt_2,"""Document management"" (""Data Fusion"" OR ""Information Fusion"" OR ""Sensor Fusion"" OR ""Intellectual Capital Management"" OR ""Information Management"" OR ""Knowledge Management"" OR ""Library Science"" OR ""SCADA"")","18,200"
+DocMngt_3,"""Document management"" ""Records Management""","8,700"
